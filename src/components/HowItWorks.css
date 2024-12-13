@@ -1,0 +1,40 @@
+.how-it-works {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #fff6e5;
+}
+
+.how-it-works h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #f8b400;
+}
+
+.steps {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.step {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}
+
+.step .icon {
+    font-size: 3rem;
+    color: #ff5722;
+    margin-bottom: 10px;
+}
+
+.step h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.step p {
+    font-size: 0.9rem;
+    color: #666;
+}

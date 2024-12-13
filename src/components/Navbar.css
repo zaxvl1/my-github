@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8b400;
+    color: #fff;
+}
+
+.navbar .logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navbar .location {
+    font-size: 1em;
+}
+
+.navbar .search-login button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ff5722;
+    color: #fff;
+}
+
+.navbar .search-login button:hover {
+    background-color: #e64a19;
+}
